@@ -1,0 +1,44 @@
+
+
+
+/* So funny story, I spent a good thirty minutes trying to style without linking the style sheet to the html doc. Additionally, I can't figure out why some semi colons cancel everything out for the life of me in css. */
+
+img {
+height: 300px;
+width: 300px;
+border: 3px solid rgb(28, 5, 109);
+}
+p{
+   color: ghostwhite;
+   font-size: 24px;
+   font-weight: bolder;
+}
+
+button {
+    background-color: red; 
+    border: none;
+    color: ghostwhite;
+    padding: 15px 32px;
+    text-align: center; 
+    display: inline-block;
+    font-size: 16px;
+  }
+
+
+body {
+    border: 20px solid transparent;
+    padding: 15px;
+    border-image: url(https://th.bing.com/th?q=8-Bit+Pokeball&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.09&pid=InlineBlock&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1&mw=247) 30 round;
+    background-color: black;
+  }
+  ol{
+      background-image: url(https://www.bing.com/th/id/OGC.bdc1ab26b82773c2485e0225c64a568a?pid=1.7&rurl=https%3a%2f%2f66.media.tumblr.com%2f01bc7644e2a1edca79bf285200e7fa48%2ftumblr_ob2a9bEpkG1vt7aw9o1_400.gif&ehk=i%2fn5%2b5m5dbkmwqttX7yykaCDvysMvZ9lqF5%2fFD9MbnA%3d);
+  }
+  h1{
+      color: goldenrod;
+     text-align: center;
+  }
+  h2 {
+      color: chartreuse;
+      font-weight: 800;
+  }
